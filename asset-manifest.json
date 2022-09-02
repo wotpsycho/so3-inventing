@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wotpsycho/so3-inventing/static/css/main.9590f209.css",
-    "main.js": "/wotpsycho/so3-inventing/static/js/main.fdd00153.js",
-    "static/js/787.1eb648fb.chunk.js": "/wotpsycho/so3-inventing/static/js/787.1eb648fb.chunk.js",
-    "index.html": "/wotpsycho/so3-inventing/index.html",
-    "main.9590f209.css.map": "/wotpsycho/so3-inventing/static/css/main.9590f209.css.map",
-    "main.fdd00153.js.map": "/wotpsycho/so3-inventing/static/js/main.fdd00153.js.map",
-    "787.1eb648fb.chunk.js.map": "/wotpsycho/so3-inventing/static/js/787.1eb648fb.chunk.js.map"
+    "main.css": "/so3-inventing/static/css/main.9590f209.css",
+    "main.js": "/so3-inventing/static/js/main.1e840944.js",
+    "static/js/787.1eb648fb.chunk.js": "/so3-inventing/static/js/787.1eb648fb.chunk.js",
+    "index.html": "/so3-inventing/index.html",
+    "main.9590f209.css.map": "/so3-inventing/static/css/main.9590f209.css.map",
+    "main.1e840944.js.map": "/so3-inventing/static/js/main.1e840944.js.map",
+    "787.1eb648fb.chunk.js.map": "/so3-inventing/static/js/787.1eb648fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9590f209.css",
-    "static/js/main.fdd00153.js"
+    "static/js/main.1e840944.js"
   ]
 }
