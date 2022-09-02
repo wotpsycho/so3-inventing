@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/so3-inventing/static/css/main.9590f209.css",
-    "main.js": "/so3-inventing/static/js/main.4896a348.js",
+    "main.css": "/so3-inventing/static/css/main.8eae892f.css",
+    "main.js": "/so3-inventing/static/js/main.5d2598be.js",
     "static/js/787.1eb648fb.chunk.js": "/so3-inventing/static/js/787.1eb648fb.chunk.js",
     "index.html": "/so3-inventing/index.html",
-    "main.9590f209.css.map": "/so3-inventing/static/css/main.9590f209.css.map",
-    "main.4896a348.js.map": "/so3-inventing/static/js/main.4896a348.js.map",
+    "main.8eae892f.css.map": "/so3-inventing/static/css/main.8eae892f.css.map",
+    "main.5d2598be.js.map": "/so3-inventing/static/js/main.5d2598be.js.map",
     "787.1eb648fb.chunk.js.map": "/so3-inventing/static/js/787.1eb648fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9590f209.css",
-    "static/js/main.4896a348.js"
+    "static/css/main.8eae892f.css",
+    "static/js/main.5d2598be.js"
   ]
 }
