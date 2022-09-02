@@ -14,19 +14,16 @@ function BoosterPanel({booster,hasBooster,toggleBooster}:BoosterPanelProps) {
 
     const location = `Location: ${booster.location}`;
     const onClick = (e:any) => {
-        e.preventDefault();
         e.stopPropagation();
         toggleBooster();
     }
     
     return <div title={location} className="Booster-card" onClick={onClick}>
-        <label>
         <input 
             type="checkbox"
             checked={hasBooster}
             /> Booster (Rating +20)
         <h2>{booster.name}</h2>
-        </label>
     </div>;
 }
 
