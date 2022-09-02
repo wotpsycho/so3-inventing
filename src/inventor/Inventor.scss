@@ -1,0 +1,53 @@
+.Inventor-listContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    row-gap:5px;
+    column-gap:5px;
+    padding-bottom:15px;
+    margin-bottom:15px;
+    border-bottom: 2px solid black;
+}
+
+.Inventor-inventorContainer {
+    width: 19%;
+    min-width:150px;
+    list-style: none;
+}
+
+.Inventor-inventorCard {
+    border:1px solid black;
+    border-radius:5px;
+    // margin:10px;
+    padding:3px;
+    font-size: 14px;
+    &.activeInventor {
+        border-color:blue;
+        background-color:lightblue;
+    }
+    &.activeItem {
+        border-color: orangered;
+        background-color:orange;
+        
+    }
+    .Inventor-titleControls {
+        // name
+        font-size:20px;
+        font-weight:bold;
+        display:flex;
+        justify-content: space-between;
+        button {
+            height: 23px;
+        }
+        margin-bottom:3px;
+    }
+    .Inventor-ratings {
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-around;
+        .Inventor-rating {
+            width: 125px;
+            
+        }
+    }
+}

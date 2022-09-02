@@ -1,0 +1,17 @@
+
+
+    .Bonuses {
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: space-around;
+        margin-bottom:2px;
+        column-gap:5px;
+        .Bonuses-bonus {
+            .negative {
+                color: green;
+            }
+            .positive {
+                color: red;
+            }
+        }
+    }

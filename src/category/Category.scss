@@ -1,0 +1,19 @@
+.Category-container {
+    display:flex;
+    flex-direction: row;
+    margin:1px;
+    height:100%;
+}
+
+.Category-left {
+    display:flex;
+    flex-direction: column;
+    border-right: 2px solid black;
+    margin-right: 1px;
+}
+
+.Category-right {
+    flex: 0 0 300px;
+    height:100%;
+    overflow-x:scroll;
+}

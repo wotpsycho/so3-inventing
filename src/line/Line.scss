@@ -1,0 +1,30 @@
+.Line {
+    display:flex;
+    flex-direction: row;
+    min-height: 100px;
+    .LineInventors {
+        display:flex;
+        column-gap: 10px;
+        width:550px;
+        >div {
+            width:30%;
+        }
+    }
+    .Line-category {
+        width: 100px;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        font-weight: bold;
+    }
+    .Line-costRating {
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        row-gap:5px;
+        input {
+            width:70px;
+        }
+    }
+}
